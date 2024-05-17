@@ -1,11 +1,28 @@
-<h2 align="left">Hi 👋! My name is PAVAN SAI RAPETI and I'm a FULL STACK DEVELOPER</h2>
-
-###
-
+<h2 align="center">PAVAN SAI RAPETI 
+  <br>
+ <h5 align="center"><i> Master of code, weaving apps with grace, Crafting digital dreams in every space. From mobile realms to web's embrace, Bringing ideas to life, leaving a lasting trace.</i></h5></h2>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/PavanSaiRapeti/count.svg?"  />
+</div>
 <img align="left" height="150" src="https://i.imgflip.com/8qcm8d.gif"  />
 
-###
-
+<p>Welcome to my GitHub profile! 
+  I am an experienced full stack developer with a passion for creating innovative web applications. 
+  I specialize in both frontend and backend technologies, 
+  allowing me to develop robust and user-friendly solutions
+  .</p>
+  
+  ######
+  <br>
+  <h3>Skills</h3>
+  <ul>
+    <li>Frontend Development: HTML, CSS, JavaScript, React</li>
+    <li>Backend Development: Node.js, Express, MongoDB</li>
+    <li>Database Management: MySQL, PostgreSQL</li>
+    <li>Version Control: Git, GitHub</li>
+    <li>Deployment: Heroku, AWS</li>
+  </ul>
+  <h3>Technologies Im familiar with ::::</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -112,8 +129,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/PavanSaiRapeti/count.svg?"  />
-</div>
+
 
 ###
+  <h3>Contact Me</h3>
+  <p>If you would like to collaborate on a project or have any questions, feel free to reach out to me at example@email.com</p>

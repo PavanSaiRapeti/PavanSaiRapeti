@@ -112,15 +112,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/PavanSaiRapeti/PavanSaiRapeti/blob/main/snake.svg" alt="Snake animation" />
-
-###
-
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/PavanSaiRapeti/count.svg?"  />
 </div>

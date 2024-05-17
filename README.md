@@ -133,4 +133,4 @@
 
 ###
   <h3>Contact Me</h3>
-  <p>If you would like to collaborate on a project or have any questions, feel free to reach out to me at example@email.com</p>
+  <p>If you would like to collaborate on a project or have any questions, feel free to reach out to me at pavansairapeti28@gmail.com</p>

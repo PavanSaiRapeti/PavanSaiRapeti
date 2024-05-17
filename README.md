@@ -2,8 +2,6 @@
 
 ###
 
-
-<img align="left" height="150" src="https://i.imgflip.com/8qcmsj.gif" />
 <img align="left" height="150" src="https://i.imgflip.com/8qcm8d.gif"  />
 
 ###
@@ -118,7 +116,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/PavanSaiRapeti/PavanSaiRapeti/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/PavanSaiRapeti/PavanSaiRapeti/snake.svg" alt="Snake animation" />
 
 ###
 
